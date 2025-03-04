@@ -1,42 +1,4 @@
-The Project Gutenberg EBook of The Life of the Moselle, by Octavius Rooke
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: The Life of the Moselle
-       From its source in the Vosges Mountains to its junction
-       with the Rhine at Coblence
-
-Author: Octavius Rooke
-
-Illustrator: Octavius Rooke
-             Henry Noel Humphreys
-
-Release Date: February 14, 2014 [EBook #44913]
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK THE LIFE OF THE MOSELLE ***
-
-
-
-
-Produced by Jeroen Hellingman and the Online Distributed
-Proofreading Team at http://www.pgdp.net/ for Project
-Gutenberg (This file was produced from images generously
-made available by The Internet Archive/Canadian Libraries)
-
-
-
-
-
-
-
+*** START OF THE PROJECT GUTENBERG EBOOK 44913 ***
 
                                   THE
                           LIFE OF THE MOSELLE,
@@ -68,7 +30,7 @@ Author of "The Channel Islands, Pictorial, Legendary, and Descriptive."
 
         Ein donnernd Hoch aus voller Brust
         Ersling zum Himmel laut,
-        Dir schoenem, deutschem Moselstrom,
+        Dir schönem, deutschem Moselstrom,
         Dir, deutschen Rheines Braut!
 
                                     Julius Otto.
@@ -114,7 +76,7 @@ eloquent poem.
 
 The Moselle, which rises among the wooded mountains of the
 Department des Vosges, never during its whole course is otherwise
-than beautiful. Below Treves it passes between the Eifel and Hunsruck
+than beautiful. Below Trèves it passes between the Eifel and Hunsruck
 ranges of mountains, which attain to the height of ten or twelve
 hundred feet above the level of the river.
 
@@ -154,8 +116,8 @@ CONTENTS.
     II.     REMIREMONT AND EPINAL                     12
     III.    TOUL AND NANCY                            24
     IV.     METZ                                      39
-    V.      FROM METZ TO TREVES                       65
-    VI.     TREVES                                    70
+    V.      FROM METZ TO TRÈVES                       65
+    VI.     TRÈVES                                    70
     VII.    RIVER INCIDENTS                           99
     VIII.   PIESPORT                                 110
     IX.     THE VINTAGE                              125
@@ -201,7 +163,7 @@ THE ENGRAVINGS BY T. BOLTON.
     AQUEDUCT AT JOUY                                  39
     METZ                                              52
     ENVIRONS OF METZ                                  64
-    ROMAN BRIDGE AT TREVES                            65
+    ROMAN BRIDGE AT TRÈVES                            65
     INITIAL                                           70
     PORTA NIGRA                                       71
     ROMAN BATHS                                       84
@@ -223,7 +185,7 @@ THE ENGRAVINGS BY T. BOLTON.
     BERNCASTEL BY MOONLIGHT                          144
     OLD HOUSES, BERNCASTEL                           147
     THE GERMAN MAIDEN                                152
-    THE GRAeFENBURG                                   153
+    THE GRÄFENBURG                                   153
     TRARBACH                                         165
     CONFLAGRATION AT TRARBACH                        170
     LILIES                                           172
@@ -231,7 +193,7 @@ THE ENGRAVINGS BY T. BOLTON.
     ENKIRCH                                          175
     MERL                                             183
     BERTRICH                                         185
-    KAeSEGROTTE                                       192
+    KÄSEGROTTE                                       192
     ALF-BACH                                         195
     THE OLD CHURCH                                   196
     BEILSTEIN                                        197
@@ -385,7 +347,7 @@ save for their actual necessities.
 
 In this neighbourhood lived the Leuci, whose capital was Toul; lower
 down, the Mediomatrices had their chief city, Metz; and beyond these
-again came the Treviri, occupying the country about Treves.
+again came the Treviri, occupying the country about Trèves.
 
 All these were members of that great German family which gave
 sea-kings to Norway, conquerors to imperial Rome, and at a later day
@@ -419,7 +381,7 @@ which the warriors fought their foes all day, receiving no hurt;
 and at evening they returned to carouse and enjoy the caresses of
 the Walkyren.
 
-Of these immediate tribes, however, Caesar relates, that "they only
+Of these immediate tribes, however, Cæsar relates, that "they only
 worshipped the forms of the gods they could see and whose beneficence
 they felt, such as the sun, moon, and fire; of others they had never
 heard." Doubtless, in after days, they adopted many of the Roman
@@ -462,7 +424,7 @@ and the historian Tacitus observes, speaking of them, "as she can
 have but one body and one life, so she can have but one husband."
 
 Prophetesses were frequent, and great confidence placed in their
-predictions,--they were called Alrunae, and lived apart in the recesses
+predictions,--they were called Alrunæ, and lived apart in the recesses
 of the forests.
 
 They had many ways of interpreting the will of the gods, but of
@@ -529,7 +491,7 @@ carpets of the false forget-me-not that line its banks.
 At length we pass from the forest to the cultivated land: the little
 valley opens into a wider one, which is surrounded by mountains of
 diverse forms steeped in sunlight; the sun declines, and wreaths of
-blue smoke ascend from the chalets on the hill-sides, where the evening
+blue smoke ascend from the châlets on the hill-sides, where the evening
 meal is being prepared for the active, hard-working peasantry, who,
 with loads of all sorts on their heads, pass by, saluting politely
 as they go us and each other.
@@ -616,7 +578,7 @@ constantly on both sides the roadway; it contains a fine church,
 near which are the buildings that formerly held the celebrated Dames
 de Remiremont, of whom the following account is given.
 
-In the seventh century a monk named Ame arrived at the court of King
+In the seventh century a monk named Amé arrived at the court of King
 Theodobert of Austrasia; moved by his preaching, one of the principal
 officers of the king, named Romaric, embraced the monastic life, and
 gave an estate to found a monastery of nuns: the mountain on which
@@ -624,7 +586,7 @@ this monastery was built was called "Mons Romarici," hence the modern
 name of Remiremont.
 
 A community of monks was established shortly after, near the nunnery,
-and St. Ame governed both; he dying, Romaric succeeded him: but
+and St. Amé governed both; he dying, Romaric succeeded him: but
 now the female monastery was governed by an abbess,--it is said,
 a daughter of Romaric.
 
@@ -755,8 +717,8 @@ under the first floor, beneath whose shade it is pleasant to sit during
 the midday heat, and hear the water rushing through the tiny canals.
 
 In the little busy inns people come and go rapidly, the fashionable
-watering-place of Plombieres being only some twelve miles distant:
-the tables d'hote at these inns are wonderful, the number of dishes,
+watering-place of Plombières being only some twelve miles distant:
+the tables d'hôte at these inns are wonderful, the number of dishes,
 the rapidity with which they are served, and the really excellent
 cookery. Most of the diners are men, and they one and all make love to
 the woman who, in conjunction with a lad, waits on some twenty guests,
@@ -789,7 +751,7 @@ passage to the gay town of Epinal.
 On a slight elevation at the entrance of the town is a public garden
 of fine old beech-trees, that shade seats and walks; rough grass lawns
 fill the intervening spaces. Here plays a military band on Sundays
-and fete-days, and the young men sun themselves in the eyes of the
+and fête-days, and the young men sun themselves in the eyes of the
 fair ladies, who in many-hued attire float up and down, ostensibly
 listening to the military music, but really to that of the voices of
 their admirers.
@@ -838,7 +800,7 @@ it is bustling, dirty, thriving, and ill-paved.
 
 
 And now away, over the hills and valleys. The river swells on beneath
-or past us, leaving Thaon, Chatel, Charmes, and many other towns and
+or past us, leaving Thaon, Châtel, Charmes, and many other towns and
 villages behind; on it flows, falling over wears and circling many
 islands, wearing its course along until it leaves the Department des
 Vosges and enters on that of the Meurthe.
@@ -901,19 +863,19 @@ first listen to a simple story from French every-day life, near Toul.
 
 
 
-ADELE AND GUSTAVE.
+ADÈLE AND GUSTAVE.
 
 Once more War stalked the land; again France was aiming, and calling
 on her sons to fight a foreign foe: but this time her quarrel was a
 righteous one, for side by side with England she appeared, to guard
 the weak against the oppression of the strong.
 
-Adele's heart was beating with anxiety when the day for drawing
+Adèle's heart was beating with anxiety when the day for drawing
 the fatal numbers had arrived,--those numbers that should determine
 whether Gustave left her for the battle-field or remained to marry,
 as had been agreed between them and their parents.
 
-Gustave, however, though he dearly loved his sweet fiancee, loved more
+Gustave, however, though he dearly loved his sweet fiancée, loved more
 that empty trumpet glory, a grand word, and one that chains the hearts
 of men,--but, like the drum and trumpet, its appropriate adjuncts,
 only expressing a hollow though a ringing sound.
@@ -926,19 +888,19 @@ turmoil of the imagined war.
 Little thought he of the days of severe privation, the nights
 of watching, the constant petty troubles, and the lingering pains
 brought on by disease engendered by a soldier's life; and still less,
-it is to be feared, did his mind dwell on the number of Adeles this
+it is to be feared, did his mind dwell on the number of Adèles this
 ruthless war leaves mourning and trembling, while their husbands,
 friends, and lovers, fight and die afar. He only thought of glory
 in the abstract; perhaps also of a time when, a high grade won,
-triumphant he should return and lay his spoil at Adele's feet.
+triumphant he should return and lay his spoil at Adèle's feet.
 
 And he was drawn; his friends begged him to let them purchase a
 substitute,--he, with his ambition and his love for them combined,
 would not allow that they should thus impoverish themselves; but,
-being strongly urged, he turned to where Adele silently was grieving,
+being strongly urged, he turned to where Adèle silently was grieving,
 and left the choice to her.
 
-Poor Adele, knowing well his secret heart, and fearing that he
+Poor Adèle, knowing well his secret heart, and fearing that he
 would only fret and chafe at home,--perhaps, too, being herself a
 little tainted with his love for glory,--wept, but said, "Go, then,
 dear Gustave; never shall a French girl counsel her lover to desert
@@ -970,7 +932,7 @@ those left behind we ought to pity.
 
 Then came a day of joy: Gustave had performed one of those daring
 feats of which the Russian war gave so many instances,--he had been
-promoted; and Adele's eyes sparkled, and her bosom heaved, as friends
+promoted; and Adèle's eyes sparkled, and her bosom heaved, as friends
 came flocking in offering their congratulations.
 
 The long winter was rolling on; still the enemy, with desperate
@@ -987,10 +949,10 @@ last where he had fallen.
 
 The Colonel himself wrote to his friends, and a decoration was
 forwarded; but did those words of praise, did that cold cross, repay
-Adele for her lost lover? Often, when no eye but that of God was on
+Adèle for her lost lover? Often, when no eye but that of God was on
 her, she sat with these treasures in her lap, but from her eyes the
 tears would flow, and the cross and words were dimly seen through
-the descending drops,--no, Adele was not consoled, though he had died
+the descending drops,--no, Adèle was not consoled, though he had died
 for France; hollow were to her the words, "Mourir pour la Patrie."
 
 
@@ -1036,7 +998,7 @@ in the olden time:--
         To swell the golden grain.
 
 
-Adele entered not into their joy, her heart was like her
+Adèle entered not into their joy, her heart was like her
 lover--dead. As they go with the last waggon towards home suddenly
 a shout is heard--a crowd comes on--she hears her name called--many
 voices seem to say "Gustave!"--the crowd gives way.
@@ -1051,9 +1013,9 @@ back; one empty sleeve was pinned against his breast, but there she
 placed the cross,--he smiled fondly on her, but looking at it sighed,
 thinking perchance glory may be bought too dear.
 
-And now by the Moselle's banks Adele nurses her invalid husband, and
+And now by the Moselle's banks Adèle nurses her invalid husband, and
 peace for the moment reigns in France. But, alas and alas! many another
-Adele will mourn many another Gustave, before mankind have learnt to
+Adèle will mourn many another Gustave, before mankind have learnt to
 fulfil the wish contained in Jeanette's song, and be content to
 
 
@@ -1116,7 +1078,7 @@ She tells her of a city beautifully laid out with gardens of great
 trees, beneath whose shade gay dames and damsels walk, while music
 fills the air; hard by the numerous fountains play; and the old palace
 of King Stanislas, who enriched the town with many a stately building,
-is near. The shops and cafes, the theatre and walks, all render Nancy
+is near. The shops and cafés, the theatre and walks, all render Nancy
 a cheerful and agreeable abode.
 
 Within the old town is the curious palace of the ancient Dukes,
@@ -1132,9 +1094,9 @@ his own kingdom of Poland, from the French monarch; at his death the
 duchy finally reverted to France, and became extinct in 1766.
 
 Stanislas and his queen, in 1699, took part in a very curious ceremony
-called "The Fete des Brandons," annually practised in Nancy.
+called "The Fête des Brandons," annually practised in Nancy.
 
-This fete was thus conducted: on a certain day all the newly-married
+This fête was thus conducted: on a certain day all the newly-married
 couples, of whatever degree, were obliged, under pain of penalty,
 to go out of the city gate and fetch a fagot; these fagots were,
 to save them the trouble of going to the wood, sold to them outside
@@ -1144,7 +1106,7 @@ their fagot bound with the ribands, and the husband with one of the
 pruning-knives hanging to his button, to the Halle des Cerfs in the
 ducal palace: from there they went in procession to the market-place,
 and formed a pile with the fagots; they then inscribed their names
-at the Hotel de Ville, in a book kept for that purpose, and received
+at the Hôtel de Ville, in a book kept for that purpose, and received
 certain privileges for the coming year.
 
 Returning to the palace, they danced in the court, and the young men
@@ -1152,13 +1114,13 @@ pelted peas under their feet; which "being," says the chronicler,
 "very hard, occasioned the dancers many falls, which caused great
 hilarity among the spectators."
 
-At seven in the evening they had a grand supper at the Hotel de Ville,
+At seven in the evening they had a grand supper at the Hôtel de Ville,
 and afterwards the bonfire was lit and fireworks sent up.
 
 During the blazing of the bonfire the new-married had the right of
-proclaiming from the balcony of the Hotel de Ville, "Les Valentins
+proclaiming from the balcony of the Hôtel de Ville, "Les Valentins
 et les Valentines," i.e. they called out the names of any of their
-unmarried friends with the following words, "Qui donne-t-on a
+unmarried friends with the following words, "Qui donne-t-on à
 M----?" "Mademoiselle ----" was answered by another, and the crowd
 took up the names, expressing their approbation or otherwise.
 
@@ -1172,10 +1134,10 @@ their displeasure.
 The ladies were to give a ball to their Valentins, and if they did
 not do so, a straw-fire was lit before their houses.
 
-These fires were called "Bruler le Valentin," or "Valentine," and
+These fires were called "Brûler le Valentin," or "Valentine," and
 showed "the new-married" had made a mistake in their choice for
 the unmarried. The chronicle finishes by saying, "the people were so
-pleased at seeing Stanislas and his queen taking a part in their fete,
+pleased at seeing Stanislas and his queen taking a part in their fête,
 that they did not pelt peas under their feet when dancing."
 
 Nancy is not a town of very ancient date like its neighbours, Metz
@@ -1198,11 +1160,11 @@ Many in Lorraine believed that Joan was not really burnt: this belief
 gave rise to several impostors, one of whom was so successful that she
 deceived even Joan's brothers, and under her assumed name married a
 certain Seigneur des Armoises: another was for some time believed in,
-and feted accordingly, but at last, being confronted with the King,
+and fêted accordingly, but at last, being confronted with the King,
 he posed her by asking what was the secret between them.
 
 In 1445 the Duke of Suffolk arrived at Nancy to demand the hand of
-Marguerite, Rene's beautiful daughter, for Henry VI. of England; Rene
+Marguerite, René's beautiful daughter, for Henry VI. of England; René
 willingly consented to this honour, and Marguerite went forth to pass
 her troubled life in camps and battles, until, after the murder of
 her husband and son, she returned to Lorraine, and died in 1482, near
@@ -1213,22 +1175,22 @@ Charles the Bold besieged and took Nancy in 1475; contrary to his usual
 custom, he was most affable to the citizens, wishing to make Nancy the
 capital city of the new kingdom he proposed carving out for himself
 from the adjoining states; but his quarrel with the Swiss arrested
-the progress of these schemes, and in his absence Rene II. retook the
+the progress of these schemes, and in his absence René II. retook the
 city, the garrison capitulating: after the capitulation the governor
-sent Rene a pate of horseflesh, and told him that for several days
+sent René a pâté of horseflesh, and told him that for several days
 they had been reduced to such nourishment.
 
 Immediately afterwards Charles re-appeared, and again besieged
-the city; Rene departed to procure assistance from the Swiss,
+the city; René departed to procure assistance from the Swiss,
 the garrison promising to hold out for two months; and in keeping
 this promise it suffered great hardships,--the walls were in ruin,
 a terrible disease appeared within the town, and no less than four
 hundred men were frozen to death on Christmas night only.
 
-At length Rene and the Swiss arrived; then the celebrated battle was
+At length René and the Swiss arrived; then the celebrated battle was
 fought in which Charles was slain. It is said that before the fight
 commenced he feared for the result, as, in putting on his helmet, the
-crest fell to the ground. Rene re-entered his capital by torchlight
+crest fell to the ground. René re-entered his capital by torchlight
 the same night.
 
 Under its Duke, Charles IV., Nancy suffered much from war, and endured
@@ -1544,11 +1506,11 @@ had ceased to be pastors, and become warriors and temporal princes.
 The Bishops of Metz were long able to maintain their authority
 in the city, though often the citizens disputed it. In Henry the
 Fowler's reign, Metz became a free imperial city; and in the twelfth
-century a Maitre Echevin, with twelve councillors, was established,
+century a Maître Echevin, with twelve councillors, was established,
 and for centuries this form of government was adhered to: thus the
 Bishops were superseded by a Republic. They still, however, enjoyed
 considerable power, being the principal parties in the election of
-the Maitre and his council.
+the Maître and his council.
 
 A curious legend of Metz is handed down to us from the beginning of
 the thirteenth century.
@@ -1612,7 +1574,7 @@ appearing the most interesting.
 
 In 1354 the Emperor Charles IV. remained some time at Metz,
 and returned there again two years after, when he held a Diet, at
-which the Archbishops of Treves, Cologne, and Mayence, and the four
+which the Archbishops of Trèves, Cologne, and Mayence, and the four
 lay-Electors, were present. At this Diet additions were made to the
 celebrated Golden Bull, which was then published, and remained the
 law of the Empire until the nineteenth century. Metz was now at the
@@ -1638,7 +1600,7 @@ with the Lorrainese; and the Count de Bar advanced to Metz and defied
 the Messins to combat, sending them a bloody gauntlet. The citizens,
 however, declined the conflict, and peace was concluded.
 
-In 1405 an emeute took place in the town, and the people rising
+In 1405 an émeute took place in the town, and the people rising
 turned out the magistrates, and replaced them with their own
 representatives. Soon, however, the ancient rulers managed to reinstate
 themselves, and took a bloody vengeance on their enemies.
@@ -1655,7 +1617,7 @@ In 1444, a furious war was waged between the Duke of Lorraine and the
 Messins: the Duke was assisted by his brother-in-law, Charles VII. of
 France. The quarrel originated in some money claims that the city had
 on the Duchess of Lorraine, which claims she refused to satisfy. The
-irritated Messins seized on the lady's baggage between Pont-a-Mousson
+irritated Messins seized on the lady's baggage between Pont-à-Mousson
 and Nancy, as she was performing a pilgrimage to the former. The
 Duke, in revenge, besieged the city, and the burghers ravaged his
 territories. Much blood was shed on both sides, until at last peace
@@ -1668,7 +1630,7 @@ the Messins were called on to fight for Adolphe of Nassau, the nominee
 of the Pope. They pleaded their privileges and the late ruinous wars,
 and begged to remain neutral. The Pope, in consequence, excommunicated
 the city; a great number of the clergy obeyed the Papal Bull, and
-left in procession for Pont-a-Mousson, with the cross and banners at
+left in procession for Pont-à-Mousson, with the cross and banners at
 their head. For three years this extraordinary state of things lasted,
 during which time the churches were empty and the dying unshriven. At
 length the Pope took off the interdict, and the priests and canons
@@ -1687,7 +1649,7 @@ him, disowned his herald, and denied the letter he had sent.
 The next event was an endeavour to take Metz by storm, on the part
 of the Duke of Lorraine, and it very nearly succeeded. Early in the
 morning of the 9th April, 1473, while the Messins still slept, ten
-thousand Lorrainese arrived near the walls from Pont-a-Mousson, having
+thousand Lorrainese arrived near the walls from Pont-à-Mousson, having
 marched during the night; with them was a certain Krantz, nicknamed
 "La Grande Barbe," who had constructed a peculiar waggon, filled with
 casks, which was capable of sustaining the weight of a portcullis,
@@ -1701,7 +1663,7 @@ immediately beneath the portcullis, the pretended merchants then
 rushed on the guardian of the gate and killed him.
 
 Being joined by a select body of five hundred men, who quickly entered,
-La Grande Barbe raised the shout of "Ville gagnee!" adding, "Slay,
+La Grande Barbe raised the shout of "Ville gagnée!" adding, "Slay,
 slay, women and children; spare none! Vive Lorraine!"
 
 The awakened burghers rushed in disorder from their beds, knowing
@@ -1733,12 +1695,12 @@ respectfully, saying it was an old custom only to sound it thrice in
 the year. This they did, fearing it might be meant as a signal of
 attack on their hardly-maintained liberties. They also had, during
 the Emperor's visit, 2000 men constantly under arms, ready to obey
-the Maitre Echevin's orders at a moment's notice; and they kept strict
+the Maître Echevin's orders at a moment's notice; and they kept strict
 guard over the gates.
 
 While Frederick was with them the Messins refused to admit Charles
 the Bold, with more than five hundred horsemen. He was furious,
-but the Emperor agreed to meet him at Treves instead; and afterwards
+but the Emperor agreed to meet him at Trèves instead; and afterwards
 Duke Charles had no time or opportunity to revenge himself on Metz,
 but rather conciliated that powerful city, and when he took Nancy
 sent a present of cannon and other spoil to the Messins, who were
@@ -1755,19 +1717,19 @@ All was easily arranged, thanks to Cauvellet, who had the keys of the
 city. A day was fixed on, but it turning out so rainy that the river
 flooded the approaches to the town, a fresh day was named; in the
 meantime Cauvellet's conscience pricked him, and he confessed the plot
-to the Maitre Echevin. His life was spared, but the Sire de Landremont,
+to the Maître Echevin. His life was spared, but the Sire de Landremont,
 after his sentence had been read at every cross-street in the town,
 he being led about on horseback for this purpose, was strangled,
 drawn, and quartered. He died with a smile on his countenance, saying
 he only regretted having been unsuccessful.
 
-A peace was soon after patched up between Rene and the Messins.
+A peace was soon after patched up between René and the Messins.
 
 Though so long resisting, the city was doomed eventually to fall by
 treachery, and the time at length arrived.
 
 In 1552, Henry II. of France entered Lorraine, and occupied
-Pont-a-Mousson. On the 10th of April he presented himself before the
+Pont-à-Mousson. On the 10th of April he presented himself before the
 gates of Metz, which is styled in the annals of the day "a great and
 rich imperial city, very jealous of its liberties." Although Henry
 had taken the most rigorous measures to suppress Protestantism in his
@@ -1788,7 +1750,7 @@ thousand drawing near, they wished to close the gate; but Tavannes
 continued to speak them fair until upwards of seven hundred picked
 men had entered, when a Swiss captain, who held the keys for Metz,
 seeing the number, threw the keys at Tavannes' head, exclaiming in
-the idiom of the country, "Tout est choue."
+the idiom of the country, "Tout est choué."
 
 Thus was Metz taken, kings and nobles thinking any treachery fair
 against mere bourgeois. Of course Henry kept it for himself, not the
@@ -1824,7 +1786,7 @@ rise to the
 
 PLOT OF THE CORDELIERS.
 
-A Cordelier, named le Pere Leonard, guardian of a convent, engaged
+A Cordelier, named le Père Léonard, guardian of a convent, engaged
 many of the leading townspeople in a conspiracy to retake Metz from
 the French.
 
@@ -1840,7 +1802,7 @@ in several places.
 Vieilleville, the Governor of Metz, hearing that a Cordelier was
 constantly seen in conversation with the Governor of Thionville,
 became suspicious, and suddenly visiting the convent, found the arms
-and concealed men; he also seized Pere Leonard as he entered the city
+and concealed men; he also seized Père Léonard as he entered the city
 on his return from Thionville, and learning from him that a body of
 Imperial troops was to march to Metz that very night, despatched
 a force, which, taking them by surprise, routed them and cut them
@@ -1870,7 +1832,7 @@ is of a different character.
 Louis XV. arrived at Metz with a strong army, in order to oppose
 Charles of Lorraine, whose duchy he had given to Stanislas of Poland.
 
-Louis, who was accompanied by his mistress, the Duchess of Chateauroux,
+Louis, who was accompanied by his mistress, the Duchess of Châteauroux,
 and her sister, was taken mortally ill; previously there had been
 erected a wooden gallery, which led, along the sides of four streets,
 from the Duchess's apartments to those of the King: this gallery
@@ -1905,7 +1867,7 @@ Moselle; it is situated on both banks and the island formed by the
 embranchment of the river: its picturesque streets are connected by
 several bridges, from which the views are very striking.
 
-It has excellent bathing establishments, fine cafes, a theatre,
+It has excellent bathing establishments, fine cafés, a theatre,
 good shops, and above all a promenade, almost unequalled in beauty;
 it is situated on very high ground, densely shaded with great trees:
 seats, and flowers, and grass are there; the military bands play in the
@@ -1928,7 +1890,7 @@ CHAPTER V.
 
 Leaving Metz, and all its soldiers, ramparts, and ditches far behind,
 our river, passing through a level country, arrives at Thionville. This
-town was in the diocese of Treves, and dependent on the Parliament of
+town was in the diocese of Trèves, and dependent on the Parliament of
 Metz. Here Charlemagne had a favourite palace; and here, in a solemn
 assembly, he parted his vast estates between his three sons.
 
@@ -1941,7 +1903,7 @@ lies in a level plain, and is uninteresting, though rather picturesque.
 The Moselle rolls on, and in about twelve miles reaches Sierck, a
 clean little town, on its right bank; and then we pass from France
 to Prussia, and our river becomes German, its future beauty beginning
-to dawn as it approaches Treves. Two streams here increase the volume
+to dawn as it approaches Trèves. Two streams here increase the volume
 of her waters--a smaller one on the left, and the Saar on the right.
 
 There is one peculiar charm about the banks and neighbourhood of
@@ -2006,16 +1968,16 @@ the above; moreover, they are more beautiful than wild flowers usually
 are, attaining to great size; the enothera, harebells, and campanulas,
 with wild geraniums, and a host of others, go to swell the list.
 
-Before the Saar runs in, the red rocks of Treves appear on the
+Before the Saar runs in, the red rocks of Trèves appear on the
 left bank, jutting over the trees, close to the river's course;
 then they retire inland, until the old Roman bridge is reached;
 there they again approach, and from their heights the remnant of old
-Treves is spread out, environed by its avenues and studded with its
+Trèves is spread out, environed by its avenues and studded with its
 churches and ruins. The river is beneath; and the eight-arched bridge,
 complete as in the golden days of Rome, clasps the waist of our river
 as a zone encircling that of a young girl just budding into womanhood.
 
-And so, our graceful woman-stream at Treves ceases her girlhood and
+And so, our graceful woman-stream at Trèves ceases her girlhood and
 becomes more beautiful, more reflective, and more graceful; the hills
 draw near, and the vineyards sparkle among the rocks; her handmaidens,
 the brooks, wait at every turn to tend her, increasing her beauty;
@@ -2065,32 +2027,32 @@ CHAPTER VI.
 
 
 "Augusta Trevirorum" of the Romans, "Trier" of the Germans, and
-"Treves" to English, is, or at any rate claims to be, the most
+"Trèves" to English, is, or at any rate claims to be, the most
 ancient city of Europe; according to the legend it was founded by
 a Prince Trebeta, who was driven out of his Asiatic possessions by
 Semiramis. He is described as having been a wise and strong prince,
 who built a magnificent palace of vast strength on the heights over
 the Moselle, opposite to the town, which he called after his own
 name: these things he did 1300 years before the foundation of Rome;
-and on the "Rothen Haus" in Treves are still the words, "Ante Romam
+and on the "Rothen Haus" in Trèves are still the words, "Ante Romam
 Treviris stetit annis mille trecentis." A picture, said to represent
 this Prince Trebeta, is in the Town-hall: he is sitting on his father's
 lap, with the spires of the Cathedral in his hand.
 
-Very interesting is Treves; and if we cannot place confidence in Prince
+Very interesting is Trèves; and if we cannot place confidence in Prince
 Trebeta and his days, we must turn to that surer period when it was
 the capital of the Roman dominions beyond the Alps, and received the
 name of Augusta of the Trevii; these Trevii being the German tribe
 residing around this part of the Moselle.
 
-Under its Roman name Treves rose to the height of its glory; it
+Under its Roman name Trèves rose to the height of its glory; it
 was then celebrated for the number of its magnificent temples, its
 splendid palaces, its amphitheatre and baths. Remnants of this past
 splendour still exist; such as portions of the baths and amphitheatre,
 the bridge, and especially the Porta Nigra, which is one of the finest
 Roman ruins extant.
 
-Treves was frequently the residence of the Roman Emperors, and
+Trèves was frequently the residence of the Roman Emperors, and
 its inhabitants had all the privileges of Roman citizenship. In
 the last half of the third century Galienus held his court here;
 and here Maximian was attacked by the Franks, whom he defeated. Here
@@ -2119,12 +2081,12 @@ of that wonderful empire, on the ruins of which their leaders planted
 their feet, which at first slipped and stumbled, but eventually found
 a firm basis, on which was erected what we call Modern History.
 
-Many legends are given us by the German poets connected with Treves;
+Many legends are given us by the German poets connected with Trèves;
 the following are the most remarkable:--
 
 
 
-LEGEND OF THE GREAT CANAL FROM TREVES TO COLOGNE.
+LEGEND OF THE GREAT CANAL FROM TRÈVES TO COLOGNE.
 
 For more than a hundred years the people of Cologne had been
 endeavouring to raise a Cathedral that should eclipse all others. The
@@ -2139,17 +2101,17 @@ place a tower upon thy cathedral."
 Years passed on, and the Cathedral was rapidly approaching to
 completion, when the master saw a huge worm creep from the ground. This
 was the fiend, by whose assistance the apprentice had made a canal
-from Treves to Cologne: the apprentice appeared to the astonished
+from Trèves to Cologne: the apprentice appeared to the astonished
 master and said, "Lo, my canal is complete, while thy church is yet
 a fragment!" and water flowed from the canal, on which a duck came
-swimming from Treves.
+swimming from Trèves.
 
 The water rose and encompassed the master, who thus perished, and his
 cathedral is still unfinished; but the wicked apprentice fared still
 worse, for the great worm strangled him, and he is doomed evermore
 to haunt the cathedral, measuring the uncompleted works.
 
-The canal thus formed was used to send wine from Treves to Cologne,
+The canal thus formed was used to send wine from Trèves to Cologne,
 without the trouble of putting it into casks. [2]
 
 
@@ -2158,7 +2120,7 @@ Not less wonderful is the following:--
 
 
 
-LEGEND OF THE DOM [3] OF TREVES.
+LEGEND OF THE DOM [3] OF TRÈVES.
 
 While meditating over his undertaking, the contractor for the building
 of the Dom was accosted by a gentlemanlike stranger in red, who said
@@ -2188,8 +2150,8 @@ build more churches without a written agreement."
 The conversion of the heathen Trevii to Christianity was, according
 to the legend, thus effected:--
 
-The people of Treves worshipped a statue of marble, from whose mouth
-oracles proceeded; troops of pilgrims came to Treves to hear from
+The people of Trèves worshipped a statue of marble, from whose mouth
+oracles proceeded; troops of pilgrims came to Trèves to hear from
 this idol's lips answers to their questions: but now a foreign priest
 appeared before the crowd, and with a crucifix in his hand he spoke
 to them of Christ the Son of God; the people, leaving their idol
@@ -2227,7 +2189,7 @@ THE RING.
 
 A certain man of noble family, after leading a glorious life,
 committed fratricide; repenting of his crime he left his country,
-and after many years arrived at Treves.
+and after many years arrived at Trèves.
 
 At sunset he stood upon the Moselle bridge, and there, kneeling before
 the crucifix, wept; his tears flowing into the stream beneath: an Angel
@@ -2251,17 +2213,17 @@ it to me as a proof of forgiveness!" expired.
 
 THE CRUCIFIX IN THE MARKET-PLACE.
 
-In the market-place at Treves there stands a column, with a crucifix
+In the market-place at Trèves there stands a column, with a crucifix
 on its summit. An inscription on it gives the following miracle as
 the cause of its erection.
 
 The Huns were swarming over Germany, burning and destroying all things:
-their march was as a pestilence; but the people of Treves were gay and
+their march was as a pestilence; but the people of Trèves were gay and
 merry, as if no danger threatened,--they rioted in wine, and luxury.
 
 One man only, within the city, still remained sober and prudent, and he
 dreamt that he saw a great monster descending from the Marcusberg and
-crawling its hideous length towards Treves; arriving at the Moselle,
+crawling its hideous length towards Trèves; arriving at the Moselle,
 the loathsome monster rolled into its blue waves, and caused them so
 to swell that the city was overflowed.
 
@@ -2327,17 +2289,17 @@ may provoke a smile, but on reflection we shall arrive at the meaning
 of what must be taken merely as an allegory.
 
 For instance, we are told that "King Sigebert appointed St. Goar to
-the Bishopric of Treves, and the Saint entering the King's saloon,
+the Bishopric of Trèves, and the Saint entering the King's saloon,
 hung his cloak over a sunbeam, to prove that he was enlightened by
 God." This would probably be an illustration of the power of faith,
 and so with the other legends of the time. Here we shall only select
-a few that are immediately connected with Treves.
+a few that are immediately connected with Trèves.
 
 
 
 LEGEND OF ORENDEL. [4]
 
-The great King Eigel resided at Treves. He was supreme over twelve
+The great King Eigel resided at Trèves. He was supreme over twelve
 kingdoms; his favourite son was Orendel.
 
 Orendel having reached his thirteenth birth-day was invested with a
@@ -2368,7 +2330,7 @@ Nobles! ye will suffer hell's heat and distress before ye reach the
 Tomb. Come not unwillingly, nor unarmed." Nothing daunted, all girded
 their swords, and prepared for the long journey.
 
-Thus went King Orendel forth from Treves, surrounded by his kings and
+Thus went King Orendel forth from Trèves, surrounded by his kings and
 knights, a golden cross grasped firmly in his hand, and the people
 cheering. Embarking, he was carried by the Moselle upon his course,
 and in the Holy Land he found his "Breide."
@@ -2378,19 +2340,19 @@ and in the Holy Land he found his "Breide."
 THE GREAT MASSACRE.
 
 Varus, the governor of Gaul, caused so many Christians to be massacred
-in Treves that the Moselle ran red with blood, until it reached
+in Trèves that the Moselle ran red with blood, until it reached
 Neumagen. For this he was condemned to ramble restlessly about the
 city after his death, and to do deeds of kindness, assisting every
-one requiring his aid in Treves. In this character he is called
+one requiring his aid in Trèves. In this character he is called
 "the City Ghost."
 
-In after days a penitent from Treves sought absolution from the
-Pope. The latter ordered him to fetch a piece of earth from Treves;
+In after days a penitent from Trèves sought absolution from the
+Pope. The latter ordered him to fetch a piece of earth from Trèves;
 and on the penitent's again presenting himself with the earth, the
 Holy Father prayed, and pressed it in his hands, and blood dropped
 therefrom immediately.
 
-"This blood," said the Holy Father, "was shed by martyrs in Treves,
+"This blood," said the Holy Father, "was shed by martyrs in Trèves,
 who loved Christ so heartily that they gave their lives for him,
 and thus became protectors of their city.
 
@@ -2411,16 +2373,16 @@ call on him to rise, as it was not yet time for him to rest, but he
 must still combat for the sake of God.
 
 This was done; and Matern, who had been dead forty days, arose,
-and administered three bishoprics at once; viz. Tongern, Treves,
+and administered three bishoprics at once; viz. Tongern, Trèves,
 and Cologne.
 
 
 
 THE FIRST FOUNDLING HOSPITAL.
 
-The first institution of this nature is said to have been in Treves,
+The first institution of this nature is said to have been in Trèves,
 and was thus established: Saint Goar was a very pious man, harming
-none, but the wicked calumniated him to the Bishop of Treves.
+none, but the wicked calumniated him to the Bishop of Trèves.
 
 The Bishop ordered him to appear before him, and, to test his power,
 asked him to declare who was the father of a child that had been
@@ -2436,13 +2398,13 @@ Church embraces with tender arms erring children, so must thou, the
 head of thy Church, foster such poor children, and bring them up in
 the fear of God."
 
-The city of Treves and surrounding country fell under the sway
+The city of Trèves and surrounding country fell under the sway
 of the Archbishops of the diocese, who were usually more warriors
 than priests, if we may judge by their acts. Here is a picture of a
 brother-Archbishop, who flourished in 1169:--"Christian of Mayence
 is said to have spoken six languages, and was celebrated for his
 knightly feats of arms. He was daily to be seen with a golden helmet
-on his head, armed cap-a-pie, and mounted on his war-horse, the
+on his head, armed cap-à-pié, and mounted on his war-horse, the
 archiepiscopal mantle floating from his shoulders, and in his hand
 a heavy club, with which he had brained thirty-eight of his enemies."
 
@@ -2472,12 +2434,12 @@ to protect their towns and villages; hence arose the numerous towers
 whose ruins adorn the banks of the Moselle and other rivers.
 
 Most of the later legends are connected with these Robber-Knights;
-and the history of their petty wars with the Archbishops of Treves
+and the history of their petty wars with the Archbishops of Trèves
 and the Counts of Sponheim (the latter being lords of a large tract
 of country), is the history of the Moselle during the middle ages.
 
 The Counts of Sponheim, too, were generally at variance with the
-Archbishops of Treves, and both these powers with the Archbishops of
+Archbishops of Trèves, and both these powers with the Archbishops of
 Cologne; so we plainly see the necessity of the walls, which still
 exist in fragments round the old towns and villages; and while we
 quietly sketch the picturesque gate and water-towers, our minds revert
@@ -2487,7 +2449,7 @@ The burghers eventually, however, carried the day; and as they
 increased in power the Robber-Knights were gradually swept away,
 leaving only the blackened walls of their old keeps to mark where they
 had plied their trade of robbery. See in the following story how the
-citizens of Treves paid off a certain Robber-Knight, named Adalbert,
+citizens of Trèves paid off a certain Robber-Knight, named Adalbert,
 whose castle was situated near their town, meeting violence with fraud.
 
 
@@ -2495,7 +2457,7 @@ whose castle was situated near their town, meeting violence with fraud.
 THE ANIMATED WINE-CASKS.
 
 Adalbert, from his castle of Saint Cross, disturbed by robbery the
-city of Treves. The city swore vengeance.
+city of Trèves. The city swore vengeance.
 
 A certain brave knight, named Sicco, offered to destroy both Adalbert
 and his castle by cunning. This offer was gladly accepted, and the
@@ -2544,7 +2506,7 @@ dreams of Eastern luxury.
 
 Popular fury having been raised by the preaching of Peter the Hermit
 and others, it expended itself in the first place on those more
-immediately within its reach; and in Treves the Jews were so persecuted
+immediately within its reach; and in Trèves the Jews were so persecuted
 that they frequently committed suicide, after slaying their children:
 multitudes of them also embraced Christianity, only to resume their
 real faith when the storm had passed.
@@ -2616,14 +2578,14 @@ pregnant by him was released from her vows, and the possessions of
 her ravisher bestowed on her and her son."
 
 An extraordinary pilgrimage was founded about the end of the thirteenth
-century by an Archbishop of Treves; the pilgrims were to go to the
+century by an Archbishop of Trèves; the pilgrims were to go to the
 grave of Saint Willibrod at Epternach, and there join in a general
 dance in her honour. During this dance the pilgrims of all ranks
 were linked together; first they advanced, then retired, afterwards
 ziz-zagging off to the right and left. This custom was kept up for
 many years, and is still in existence in a modified form. [6]
 
-In 1473, Treves was selected by Charles the Bold and the Emperor
+In 1473, Trèves was selected by Charles the Bold and the Emperor
 Frederick III. as the place where they should meet and settle the
 marriage of Mary of Burgundy with Maximilian, the son of Frederick;
 Charles was on his side to be invested with the rank of King, and
@@ -2661,7 +2623,7 @@ The burning of witches formed one of the most remarkable features of
 the age of the Reformation; it had commenced at an earlier period,
 but became general in the sixteenth and seventeenth centuries.
 
-In the fourteenth century the Council of Treves condemned the
+In the fourteenth century the Council of Trèves condemned the
 belief in witches, and declared their supposed nightly expeditions
 to be a fabulous invention; but in the fifteenth century the belief
 came suddenly back with fresh force, Pope Innocent VIII., in 1485,
@@ -2686,18 +2648,18 @@ they confessed. Under these tortures they confessed whatever their
 persecutors thought fit, and were then burned. There were many other
 ordeals practised in different places.
 
-The Archbishop of Treves, in 1589, sentenced so many women to the
+The Archbishop of Trèves, in 1589, sentenced so many women to the
 stake, that in two districts only two women remained. This Archbishop
-also condemned the Rector of the University of Treves as a sorcerer.
+also condemned the Rector of the University of Trèves as a sorcerer.
 
-Towards the end of the seventeenth century, Treves suffered much
+Towards the end of the seventeenth century, Trèves suffered much
 from the different armies that repeatedly traversed her territories;
 and in the beginning of the eighteenth century, one of its Electors
 had the temerity to declare war against Louis XIV., without waiting
 for the decision of the Empire.
 
 Louis determined to seize on the person of the Elector, who he
-jeeringly named the "Little Cure of Treves." For this purpose
+jeeringly named the "Little Curé of Trèves." For this purpose
 he despatched a regiment of Hussars from Sarre-Louis, with orders
 to bring him dead or alive. The Hussars endeavoured to surprise the
 Elector while hunting; but a certain Postmaster warned him of the plot
@@ -2706,23 +2668,23 @@ Elector rewarded the Postmaster, by ordering that whenever he came
 to Ehrenbreitstein he should be allowed to eat and drink his fill of
 whatever he chose, that was in cellar or larder.
 
-In 1803 the spiritual Electorates were abolished, and Treves included
+In 1803 the spiritual Electorates were abolished, and Trèves included
 in France. It now forms a portion of Rhenish Prussia.
 
 
 
-Having touched on the leading historical events connected with Treves,
+Having touched on the leading historical events connected with Trèves,
 from the earliest times to the present century, we will take a survey
 of the city as it now exists.
 
-Formerly Treves occupied a large space on both sides of the Moselle,
+Formerly Trèves occupied a large space on both sides of the Moselle,
 but it has in later years been confined to the right bank of the
 river; indeed, it cannot properly be said to be on the Moselle at
 all, for the principal part of the town is at some distance inland,
 and everywhere walls shut it out from the stream, only a few detached
 houses appearing on the banks.
 
-Completely modernised, Treves yet possesses a certain look of age,
+Completely modernised, Trèves yet possesses a certain look of age,
 owing probably to its walls with avenues of trees surrounding, and an
 air of decay visible throughout its streets and squares. The later
 style of houses are of the time of Louis XV., and many of them are
@@ -2749,11 +2711,11 @@ state, and it is very well preserved, and is certainly quite one of
 the most interesting Roman buildings extant.
 
 There are (as we stated at the commencement of this chapter) many other
-reminiscences of the Roman rule to be seen in Treves, the principal of
+reminiscences of the Roman rule to be seen in Trèves, the principal of
 which are the bridge, the amphitheatre, and the baths: of the latter
 a considerable portion still remains, but of the amphitheatre only
 the form is left, with a mere fragment of wall at the entrance. It,
-in common with the other ruins in Treves, is well kept and preserved.
+in common with the other ruins in Trèves, is well kept and preserved.
 
 The old palace of the Archbishops is now a barrack, and only
 interesting from its associations.
@@ -2775,7 +2737,7 @@ no less than one million one hundred thousand persons to gaze on
 the wonderful garment, which was exhibited to the faithful for eight
 weeks and then returned to its coffer.
 
-There are many other churches in and around Treves, one of which the
+There are many other churches in and around Trèves, one of which the
 commissionaires think very grand, and accordingly march their slaves,
 the sight-seers, off to visit it, and expect them to fall into raptures
 with a whitewashed, high-roofed ball-room, covered with tawdry,
@@ -2785,7 +2747,7 @@ and nearly twist their necks off to get a look at the paintings on
 the ceiling: latterly, little looking-glasses have been provided,
 to save them from getting cricks in their necks.
 
-About six miles from Treves, on the Luxembourg road, is a village
+About six miles from Trèves, on the Luxembourg road, is a village
 called Igel. Here is preserved a very curious stone obelisk, covered
 with carvings of figures and inscriptions: as usual, there is a
 considerable dispute as to its origin and purpose, but it undoubtedly
@@ -2812,7 +2774,7 @@ expatiate on Luxembourg, as it is only one small feeder of our river.
 CHAPTER VII.
 
 
-That portion of our river which lies between Treves and Coblence is
+That portion of our river which lies between Trèves and Coblence is
 the most beautiful, and the part usually visited by the few who allow
 themselves the enjoyment of seeing scenery yet unspoiled by Art. The
 Moselle at this present time is much what the Rhine was half a century
@@ -2844,7 +2806,7 @@ tell them tales of the old time, when the ruined towers above our
 heads clanged with the tramp of armed men, and echoed to songs of
 love and wine.
 
-Treves and its bridge are shut out by the trees, and the river nymphs
+Trèves and its bridge are shut out by the trees, and the river nymphs
 surround us with garlands and with song.
 
 
@@ -2921,7 +2883,7 @@ want of good roads, and the fact of the stream being less rapid
 than that of the Rhine, as well as the absence of steam-tugs, makes
 the Moselle more lively with barges and small boats, especially the
 latter; though, of course, there being only three or four steamers
-on the whole distance (about 150 miles) between Treves and Coblence,
+on the whole distance (about 150 miles) between Trèves and Coblence,
 the absence of those puffing drawbacks to tranquil enjoyment renders
 the Moselle more quiet on the whole.
 
@@ -3065,7 +3027,7 @@ tremulous lines from the high windows, and in the air is the sound of--
 CHAPTER VIII.
 
 
-From Treves to Trittenheim the scenery of our river, although very
+From Trèves to Trittenheim the scenery of our river, although very
 pleasing, has not yet attained to its full beauty; the Moselle, woman
 as she has become, is still scarcely matured in beauty; many charms are
 hers already, but until approaching Neumagen her life does not reach
@@ -3087,7 +3049,7 @@ Neumagen and Piesport.
 The promontory at the back of Neumagen is divided into two parts by
 the little river Drohn. It is supposed by many that it was on the
 bank of this little stream that the celebrated Palace of the Thirty
-Towers stood. This palace, built by the Archbishop Nicetius of Treves,
+Towers stood. This palace, built by the Archbishop Nicetius of Trèves,
 is supposed to have been most beautiful, and formed entirely of marble,
 with pleasure-grounds sloping to the stream and river. The description
 given of these gardens by the poet, Venantius Fortunatus, reads more
@@ -3100,7 +3062,7 @@ of this marble palace or not, the beauty of the situation certainly
 gives it a claim to have been so, and the Archbishops did possess a
 country-house near Neumagen.
 
-A few miles below Treves we pass Pfalzel, which lies on the left bank;
+A few miles below Trèves we pass Pfalzel, which lies on the left bank;
 this little town is interesting, as it is said to be the site of the
 beautiful legend of Genoveva, handed down to us in so many different
 versions.
@@ -3201,7 +3163,7 @@ beauty. We shall hereafter have to describe some of these lateral
 valleys, so need not now dwell on their delights.
 
 On the opposite shore, which is watered by another stream, is
-Gruenhaus, and above it Grueneberg. From these vineyards come the most
+Grünhaus, and above it Grüneberg. From these vineyards come the most
 highly-prized wines of the Moselle, though many think the wines of
 Zeltingen more delicate in flavour.
 
@@ -3295,7 +3257,7 @@ a little lower down, Neumagen is situated.
 
 Before reaching Neumagen we pass a little chapel, erected at the spot
 where, according to tradition, the waters of the Moselle ceased to
-be tinged with the blood shed at Treves in the massacre of Christian
+be tinged with the blood shed at Trèves in the massacre of Christian
 martyrs.
 
 Neumagen enjoys a most agreeable site. Sheltered by the hills which
@@ -3322,7 +3284,7 @@ to that he had seen in the heavens; and the vision commanded him to
 attach a mark of the same form to his standard, telling him that by
 so doing he should vanquish all his enemies.
 
-Arriving at Treves, Constantine, mindful of his dream and the
+Arriving at Trèves, Constantine, mindful of his dream and the
 celestial sign, called together cunning artificers; and a cross,
 surmounted with a crown of gold and jewels, was set upon the lance
 from which the purple standard of royalty floated.
@@ -3356,7 +3318,7 @@ celebrated vineyards were considered the best on the Moselle in the
 earlier part of last century; but having gained this reputation for
 their wine, the cultivators introduced a worse sort of grape, which
 bore more fruit, in order to make a greater quantity of wine; but,
-fortunately for the place, a new Cure, who was appointed in 1770,
+fortunately for the place, a new Curé, who was appointed in 1770,
 induced them to restore the old sort of vine, and thus regain the
 reputation they were rapidly losing.
 
@@ -3408,7 +3370,7 @@ of which Pepin was the founder.
 
 Clausen, which lies at a short distance from Piesport, contains
 a miraculous picture of the Virgin, which was originally brought
-from Treves by the zealous Saint Eberhard, whose hermitage stood in
+from Trèves by the zealous Saint Eberhard, whose hermitage stood in
 the forest.
 
 The Saint built a chapel, and in it he placed this wonderful picture:
@@ -3567,7 +3529,7 @@ valley with songs of happiness:--
           Through the greenwoods pleasant shine.
 
         These sweet draughts of beauty give
-          To the charmed eyes of men;
+          To the charmèd eyes of men;
         Let us hasten, then, and live
           With woods and rivulets again;
         Our eyes shall feast on streams, our lips on wine;
@@ -3610,7 +3572,7 @@ by many superior to Rhine wine, but it will not bear transport so well.
 Even the most ordinary table-wine has generally a sparkling freshness,
 most grateful to the drinker, as it assuages his thirst much better
 than other wines; but what we term "sparkling Moselle" is only to be
-obtained in Treves or Coblence, and even then it is not like our idea
+obtained in Trèves or Coblence, and even then it is not like our idea
 of that wine: therefore it must, like port and sherry, be prepared
 expressly to suit English palates.
 
@@ -3730,18 +3692,18 @@ On the promontory which we are now leaving behind us on the right
 are several little villages, of which Emmel is the principal. It is
 celebrated for a schism which took place there.
 
-In 1790, the Directory at Paris wished the Cure of Emmel to take
+In 1790, the Directory at Paris wished the Curé of Emmel to take
 the same oath they had compelled the French clergy to pronounce;
-and on receiving the Cure's refusal, he was proscribed. All his
-flock accompanied the Cure on his being driven forth, until he thus
+and on receiving the Curé's refusal, he was proscribed. All his
+flock accompanied the Curé on his being driven forth, until he thus
 addressed them: "I quit you, but my spirit will always remain with
 you. At Bornhofen, whither I now go, I shall say the mass every
 morning at nine, and you can in spirit join in the service."
 
 They all promised so to do; and every day at nine the people collected
-in the church, and said their prayers without a Cure.
+in the church, and said their prayers without a Curé.
 
-After some years the Cure died, and a new one was appointed, but
+After some years the Curé died, and a new one was appointed, but
 the people of Emmel persisted in saying their prayers by themselves
 without any assistance; and, in spite of all remonstrances, many
 families remained schismatics until a few years back. It is doubtful
@@ -3852,7 +3814,7 @@ form a pleasant picture of rural beauty.
 Veldenz was a little principality in itself; formerly it was governed
 by the Counts of the same name, but afterwards it was given to the
 church of Verdun, and was then governed by fourteen magistrates,
-elected by the different villages, and presided over by a prevot,
+elected by the different villages, and presided over by a prévôt,
 probably appointed by the Bishop of Verdun.
 
 
@@ -3918,7 +3880,7 @@ by fancy, the old towers and walls again re-echo to the lutes and
 voices of long-gone days.
 
 And what a charming friend or mistress we find in Fancy! Most
-beautiful of aerial beings, she gilds for us the darkest paths,
+beautiful of aërial beings, she gilds for us the darkest paths,
 and smiles through every cloud upon her admiring followers.
 
 
@@ -4002,7 +3964,7 @@ base of the impending hills; formerly these Burgs were all walled,
 which accounts for the crushing.
 
 This town dates from the tenth century, and at the end of the
-thirteenth it was destroyed by a fire, in which the chateau of the
+thirteenth it was destroyed by a fire, in which the château of the
 Bishop was burnt, together with many pictures and other valuable
 objects, to the estimated worth of 70,000 rix thalers; it is now
 inhabited by many rich people, to whom a great part of the fine
@@ -4018,7 +3980,7 @@ Berncasteler wine was formerly held in the following story of
 
 THE BEST DOCTOR.
 
-The lord of the chateau of Berncastel sat with his Chaplain drinking
+The lord of the château of Berncastel sat with his Chaplain drinking
 his wine,--not sipping it, but pouring down huge bumpers, as was the
 custom then.
 
@@ -4101,7 +4063,7 @@ very wet.
 
 An agreeable fellow-diner informed us, that on the Moselle two codes
 of law were in force,--the Prussian on the right bank, and the Code
-Napoleon on the left: thus, in Berncastel a couple could not be
+Napoléon on the left: thus, in Berncastel a couple could not be
 united in marriage without a church ceremony, while in Cus it was
 optional. Our informant added that the ladies generally insisted on
 a church marriage, not because they thought the ceremony necessary,
@@ -4306,7 +4268,7 @@ days.
 THE CASK IN RESERVE.
 
 The fame of the wine made from the grapes that grew in the Martinshof
-vineyard penetrated even to Treves, and the Elector Philip was very
+vineyard penetrated even to Trèves, and the Elector Philip was very
 desirous to drink of a wine so renowned; but the monks, who owned the
 vineyard, would not take heed of the hints dropped by the Elector on
 this subject, as they did not love his tyrannical government.
@@ -4326,7 +4288,7 @@ of the mother cask shalt thou never taste."
 
 When the Elector was about to leave he called the Abbot aside,
 and praised highly the wine he had drunk, and thanked him for his
-hospitality; he also invited the Abbot to Treves, but told him he
+hospitality; he also invited the Abbot to Trèves, but told him he
 feared he could not give him as good wine as his own Martinshofberger.
 
 The Abbot smiled, thanked him for the compliment, and added, that
@@ -4434,9 +4396,9 @@ up after them, were in perfect security.
 
 This castellated cave was once used as a prison, in which an Archbishop
 was placed; this was the good Bishop Kuno, who was on his road to
-Treves, where he was to be installed as Archbishop.
+Trèves, where he was to be installed as Archbishop.
 
-The prebends of Treves wished not to have Kuno for their
+The prebends of Trèves wished not to have Kuno for their
 Archbishop. They, therefore, excited Count Theodorich, who was governor
 of their town, to send out armed men and capture the Bishop.
 
@@ -4472,7 +4434,7 @@ flowers, and the young of both sexes pelted each other with bouquets,
 and dancing and merriment occupied all. But now, says the narrator
 (Storck), the convent and the sanctuary are no more; their place is
 filled with vineyards. The present age respects nothing but gold;
-popular fetes, sanctuaries, souvenirs of antiquity, and rustic
+popular fêtes, sanctuaries, souvenirs of antiquity, and rustic
 simplicity, are alike swallowed up, and all is sacrificed for money.
 
 A wonderful story is told of a young lady of these parts. One fine day
@@ -4480,12 +4442,12 @@ in summer, a very beautiful girl of the family of Meesen was sitting
 at her open window, engaged in knitting. She was so occupied with her
 work or her thoughts, that she did not perceive the fearful storm that
 was rising over the mountains, until suddenly there came a clap of
-thunder that shook the whole house. Arising in haste, the "fraeulein"
+thunder that shook the whole house. Arising in haste, the "fräulein"
 endeavoured to shut to the window; but before she could accomplish her
 object a thunderbolt fell, and striking the metal-work which adorned
 the laces that fastened her bodice, it passed through her garments,
 softening the metal clasps of her garters, and partially melting
-her shoe-buckles; then, without having harmed the fair fraeulein,
+her shoe-buckles; then, without having harmed the fair fräulein,
 it burst its way out by the floor. [9]
 
 Very high hills are surrounding us as we approach Trarbach, a
@@ -4593,9 +4555,9 @@ clusters of houses that call themselves Stadts and Dorfs on the banks
 of our river, and in the valleys surrounding.
 
 High up on a lofty cliff directly over the town are the ruins of
-the Graefinburg Castle. In bygone days this castle belonged to the
+the Gräfinburg Castle. In bygone days this castle belonged to the
 powerful Counts of Sponheim, and was built with funds procured in
-the following manner from an Archbishop of Treves, and named after
+the following manner from an Archbishop of Trèves, and named after
 the sharp-witted Countess.
 
 
@@ -4604,7 +4566,7 @@ THE BISHOP'S RANSOM.
 
 The Count of Sponheim dying, his beautiful wife, Lauretta, was left
 with her young son to contend against the malice of the Archbishop
-Baldwin of Treves, who claimed her territory for himself, with no
+Baldwin of Trèves, who claimed her territory for himself, with no
 right but that of "the strong hand;" Baldwin deeming that a young
 widow would not be able to support the claims of her son against an
 Elector and Prince-Bishop.
@@ -4640,7 +4602,7 @@ him as he gazed on her beauty.
 The days sped away, and the Archbishop Baldwin finding the beautiful
 Countess was not to be moved by his threats, nor yet won by his love,
 bethought him at length of his people, who pined for so gentle a
-shepherd; therefore he sent off to Treves, asking his flock for a
+shepherd; therefore he sent off to Trèves, asking his flock for a
 ransom, which the Countess insisted his lordship should pay before
 he set out, "as some slight compensation," she said, "for the loss
 of his presence. Moreover," her ladyship added, "that the Archbishop
@@ -4661,10 +4623,10 @@ and constantly weeps for her crime of incarcerating so holy a man.
 
 
 
-This castle of Graefinburg was a most important fortress, and capable of
+This castle of Gräfinburg was a most important fortress, and capable of
 making a stout resistance, even in the days of cannon; for, in 1734,
 the Marquis of Belle-Isle was sent by Louis XIV., with a strong army,
-to ravage the territories of the Elector of Treves, who escaped
+to ravage the territories of the Elector of Trèves, who escaped
 by flight to Ehrenbreitstein. The Marquis laid siege to Trarbach,
 and after a hard struggle, and enduring a fierce bombardment, the
 garrison capitulated, and marched out with all the honours of war:
@@ -4697,7 +4659,7 @@ the town lay, surged in great waves of fire: in this huge molten sea
 great monsters appeared to be moving, whose shapes seemed writhing
 with pain as those of the devils in hell.
 
-The glare fell on the ruins of Graefinburg, and the water reflected it
+The glare fell on the ruins of Gräfinburg, and the water reflected it
 back. The houses were all burnt to the ground, excepting only those
 seen in the view, and a very few others which lay in the outskirt. The
 inhabitants laboured all night with the engines, but at six in the
@@ -4708,7 +4670,7 @@ This fire was one of a series. In three succeeding days, Zell,
 Zeltingen, and Trarbach were more or less burnt; and within a short
 time Berncastel was thrice visited by the Fire-fiend. Many other
 smaller fires also took place, and no one could give us the reason;
-troops were sent out from Treves, but nothing was ever elicited.
+troops were sent out from Trèves, but nothing was ever elicited.
 
 Traben, which was also partially burnt, is a curious enough place,
 and has as bad pavement as any in Europe: the little inn there was
@@ -5007,7 +4969,7 @@ behind, it looks out on the bend of the river, with Marienburg opposite
 and Alf in the distance.
 
 Before arriving at Alf is Bullay. This charming town is celebrated for
-its fetes and its gaiety; on one of its fetes, a noble and numerous
+its fêtes and its gaiety; on one of its fêtes, a noble and numerous
 company being collected, the host of the party, a relation of the
 Knight Carl of Zant, filled a huge bumper and asked one of his guests,
 named Frederick of Hattstein, if he could drink it down at a draught,
@@ -5015,7 +4977,7 @@ as he thought he seemed afraid of his wine.
 
 Frederick being a very strong man (not liking to be mocked), seized a
 full cask that stood in the room and lifted it up; then exclaiming,
-"I take this draught in honour of the Elector of Treves, my good
+"I take this draught in honour of the Elector of Trèves, my good
 master;" he finished the ohme.
 
 Excited by this, and not wishing to be outdone by a stranger, the
@@ -5060,7 +5022,7 @@ CHAPTER XV.
         To meet her husband Rhine, a fairy bride.
 
           The scheme agreed upon was, by the fire
-            Enchained underground,
+            Enchainèd underground,
           To raise within the earth commotion dire;
             And thus with rocks surround
         The pure stream, which hitherward was flowing
@@ -5096,7 +5058,7 @@ CHAPTER XV.
 
           Oh, short-lived triumph! never yet was sin
             Allowed to conquer long;
-          Never was bounteous love thus hemmed in
+          Never was bounteous love thus hemmèd in
             By evil spirits strong,
         But it would win its way through hearts or stone,
         Causing their power to yield before her own.
@@ -5105,7 +5067,7 @@ CHAPTER XV.
             The fairy stream Moselle;
           And the Gnome King, and all his will attend,
             Are forced their wrath to quell;
-        While she and her enleagued fairies throw
+        While she and her enleaguèd fairies throw
         Over these Eifel hills, thus raised, a glow
 
           Of more than earthly beauty, which exceeds
@@ -5199,7 +5161,7 @@ erected a bath-house and other fine buildings. Remnants of these are
 often turned up, and some are preserved.
 
 In the fifteenth century these baths again became noted, but fell
-again into disuse; but in 1769 the last Elector of Treves had the
+again into disuse; but in 1769 the last Elector of Trèves had the
 springs properly managed, and built the Kurhaus, which now stands.
 
 The bathing establishment, hotel and village, are clustered together
@@ -5225,14 +5187,14 @@ walks, and objects to sketch; and wild flowers and rocks to examine;
 or shooting for those so inclined.
 
 One of the shortest and most beautiful walks about Bertrich is to the
-Kaesegrotte, or cheese grotto: this is a cave supported by basaltic
+Käsegrotte, or cheese grotto: this is a cave supported by basaltic
 pillars which look as if made of cheeses placed one on the top of the
 other. By the side of the cave tumbles a rill of water, which flows
 from a most beautiful little pool above; over the ravine is a rustic
 bridge, exceedingly well-constructed: the banks are covered with trees.
 
 
-        LINES ON THE KAeSEGROTTE.
+        LINES ON THE KÄSEGROTTE.
 
         Pure and beautiful the streamlet flows,
           Fresh from the earth it springs;
@@ -5584,7 +5546,7 @@ trees, rocks, and water, with happy faces smiling from under their
 picturesque head-dresses.
 
 Arriving at Cochem, Herr Paoli, who talks French, and his wife, who
-talks English, will attend to your comforts at the Hotel de l'Union.
+talks English, will attend to your comforts at the Hôtel de l'Union.
 
 
 
@@ -5627,7 +5589,7 @@ struck his wife to the earth.
 At seeing this monstrous deed, the attendants sprang forward; alas! too
 late, for the gentle lady was dead.
 
-The madman was seized and taken to the Archbishop of Treves, who had
+The madman was seized and taken to the Archbishop of Trèves, who had
 him confined in a cell, where he soon after died.
 
 
@@ -5737,7 +5699,7 @@ who called to doors and windows those who made a perpetual peep-show
 of these wonderful strangers. Every tea-table and wine-party also,
 as we were informed, discussed us, and wondered what could induce
 us to remain at Cochem when we might be enjoying all the gaieties
-of Treves or Coblence. Although we passed weeks there their wonder
+of Trèves or Coblence. Although we passed weeks there their wonder
 never diminished, nor did their curiosity cease. They seemed to have
 no idea of scenery being worth anything.
 
@@ -5788,11 +5750,11 @@ and only a few ever found their way back. After the taking of the town
 the cruelties exercised by the French troops were only surpassed by
 Tilly at Magdebourg.
 
-The assault took place on the fete of St. Louis, and Boufflers sent the
+The assault took place on the fête of St. Louis, and Boufflers sent the
 news of the taking and burning of Cochem to Louis XIV. as a pleasant
 gift, well suited to the occasion.
 
-The chateau of Winneburg was taken and sacked at the same time. This
+The château of Winneburg was taken and sacked at the same time. This
 castle afterwards became the family seat of the Metternichs.
 
 For a long time after these outrages, it is said that those who had
@@ -5844,7 +5806,7 @@ great wheels.
 
 The spires of the churches are in general finely pointed, the one
 at our feet, as we stand here, is a fair example of their style of
-architecture. On Sundays and fete-days they are crowded; often they
+architecture. On Sundays and fête-days they are crowded; often they
 are so full, that late-comers are obliged to stand in the doorway or
 outside: the crowd is made up of both men and women; the head-dresses
 of the latter are gay and graceful. The embroidered cloth or velvet
@@ -5856,7 +5818,7 @@ The men always wear blue blouses and black hats, or plain cloth caps,
 so they are commonplace-looking enough: the boatmen are alone, of
 their sex, picturesque; a red cap sets them off amazingly, and they
 seem to have a very good opinion of themselves, if we may judge by
-the ease with which they joke the maedchen they pass on their voyage.
+the ease with which they joke the mädchen they pass on their voyage.
 
 A good many fish are caught in the river, but they are generally
 small. All day long solitary men sit in boats, and at long intervals
@@ -5897,13 +5859,13 @@ however, the water arrived, and the bargain was completed.
 Most luxurious was the fresh well-water, the tree-shade, and the rest:
 a cigar also lent its "enchantment to the view," which embraced a reach
 of the river, with the woods on its shores, glowing in the noonday
-haze. Close to us was an ancient chateau, with its high-peaked roof
+haze. Close to us was an ancient château, with its high-peaked roof
 and many gables; a tower was at one end, and over the roof appeared
 the church spire. The brook trickled past, and the pollard willows
-on its green banks marked its course down to the river. The chateau
+on its green banks marked its course down to the river. The château
 is now only used as a farm, and the upper part was stored with
 hay. Formerly it was the residence of a knight, who held it in fief
-from the Archbishop of Treves.
+from the Archbishop of Trèves.
 
 Our river lay so still, so clear, so blue beneath us; she also seemed
 resting till the heat should pass. The mountains, towers, and towns
@@ -5938,7 +5900,7 @@ The castle of Treis belonged to a very ancient family, who sent
 knights to the Holy Land under Godfrey de Bouillon. Afterwards it
 passed into the hands of Queen Richenza of Poland, who gave it to
 the Convent of Brauweiler, and it was henceforth garrisoned for the
-Church by dependants of the Archbishop of Treves.
+Church by dependants of the Archbishop of Trèves.
 
 On one occasion, the Pfalz-graf of the Rhine sent word to the
 Governor of the castle that the Church did not want forts, as it was
@@ -6050,7 +6012,7 @@ the glory of God. His work completed, the Saint died; and in the
 course of centuries men forgot where his body had been laid, until
 a certain priest dreamt, and in his dream it was revealed to him
 where the Saint slept. Thrice this dream was repeated; so, going to
-the Bishop of Treves, the priest told him what had occurred. Search
+the Bishop of Trèves, the priest told him what had occurred. Search
 was then made, and the bones of the Saint were discovered; and over
 them was raised the stately church which we see at the present day,
 and which is dedicated to this good Saint.
@@ -6155,7 +6117,7 @@ and silent.
 
 
 The castle of Elz was at length taken from its proper possessors by
-the Archbishop Baldwin of Treves, who, although outwitted by Lauretta
+the Archbishop Baldwin of Trèves, who, although outwitted by Lauretta
 of Sponheim, seems generally to have worsted his enemies.
 
 There had been a long feud between the knights and the Bishop, who at
@@ -6263,9 +6225,9 @@ CHAPTER XIX.
 
 Three more castles now claim our attention; they were all places of
 great importance. Bischofstein appears to have been, as its name
-denotes, garrisoned for the Bishop (of Treves), while Thuron and
+denotes, garrisoned for the Bishop (of Trèves), while Thuron and
 Ehrenburg were held by adherents of the Count Palatine, or other
-enemies of the Elector of Treves.
+enemies of the Elector of Trèves.
 
 Pursuing our course down the river, we left Moselkern by a path
 running through gardens, whose hedgerows are vines trained on
@@ -6293,7 +6255,7 @@ THE BISHOP'S SERMON.
 
 The country round Bischofstein was swarming with robber-knights and
 pillagers of every degree, to such an extent, that the Archbishop
-Johann of Treves sent out a strong band of knights, who took up their
+Johann of Trèves sent out a strong band of knights, who took up their
 abode in the castle of Bischofstein.
 
 The knights stayed the ravages, and soon the robbers found their
@@ -6513,7 +6475,7 @@ birds. This castle was built by the Count Palatine Henry, in 1209,
 after he came back from the Holy Land; he was the delegate of his
 brother, the Emperor Otho IV., and he exercised a sovereign power
 over the countries adjoining the Moselle. He often resided in his new
-castle, and had many feuds with the Archbishops of Treves and Cologne,
+castle, and had many feuds with the Archbishops of Trèves and Cologne,
 who enjoyed certain rights of sovereignty in Alken.
 
 These discords gave rise to the celebrated siege of Thuron. It is
@@ -6526,7 +6488,7 @@ three thousand cartloads having been consumed by the besiegers alone.
 SIEGE OF THURON.
 
 The Knight Zorn commanded for the Count Palatine in his strong castle
-of Thuron, when the Archbishop of Treves advanced and laid siege to
+of Thuron, when the Archbishop of Trèves advanced and laid siege to
 it. The commander of the castle, who was supported by a brave garrison,
 amply provisioned, laughed the besiegers to scorn.
 
@@ -6622,7 +6584,7 @@ must have had some spite against him. Our driver was a funny fellow,
 and among other things, speaking of a village we were passing, he said,
 "They make excellent wine there, although they are Protestants."
 
-At Kuer we found so clean and pleasant an inn, that we stopped for
+At Kür we found so clean and pleasant an inn, that we stopped for
 the night. As we were resting at one of the open windows, through
 which the still evening was visible, suddenly the shutters flapped
 to, and in an instant the water was ruffled, the wind howling, and
@@ -6653,8 +6615,8 @@ shirt-sleeves and not very dandy continuations; so we mustered up
 courage to settle our bill, and departed, to revel among uncivilised
 castles.
 
-Kuer was formerly a domain belonging to the Archbishop Poppo. He
-gave it to the ecclesiastics of the Cathedral at Treves, and the
+Kür was formerly a domain belonging to the Archbishop Poppo. He
+gave it to the ecclesiastics of the Cathedral at Trèves, and the
 wine there produced--which was more than sixty tons annually--was
 used by the recipients as table-wine, the surplus serving to pay for
 its transport: thus they drank their wine at no cost. The Bishop, in
@@ -6729,7 +6691,7 @@ THE HERMIT OF COBERN.
 
 Robin of Cobern had a beautiful daughter named Else. Her heart had
 long been given to the Knight Hans of Sable, but Hans had offended
-the Bishop of Treves, and so was outlawed and excommunicated.
+the Bishop of Trèves, and so was outlawed and excommunicated.
 
 Hans was obliged to conceal himself, and hastily flying, took refuge
 for a long while in solitudes. At length he could no longer endure
@@ -6788,7 +6750,7 @@ because the castle, in whose walls it stands, was inhabited by some of
 the Knights of the Temple after the suppression of their Order. The
 proper name of the building is the St. Matthias Chapel, and it was
 the principal station of the great pilgrimage which yearly took place
-from Coblence to Treves. These processions now are less frequent,
+from Coblence to Trèves. These processions now are less frequent,
 but still, in a modified form, they often take place.
 
 With song and banners waving, these processions wind their way along,
@@ -6852,11 +6814,11 @@ they fought it out with their fists. William of Cobern being the
 biggest and strongest, his cause was the best; so Saint Castor must
 rank after Lubentius.
 
-On the fete of Lubentius fires were lighted on the surrounding hills,
+On the fête of Lubentius fires were lighted on the surrounding hills,
 in emblem of the light of the Gospel, which dispersed the darkness
 of Paganism.
 
-This fete took place at the time of the vintage, and the assisters
+This fête took place at the time of the vintage, and the assisters
 thereat frequently imitated their champion, William the Chaplain,
 and strove to uphold their patron's authority by the same arguments,
 the new wine giving life to old quarrels.
@@ -7053,7 +7015,7 @@ swearer of lies.
 At Winningen the inhabitants are Protestants, and are, says M. de
 Bourdelois, "distinguished for their religion, language, and manners,
 above their Romanist brethren." The vine is nearly the sole object
-of culture. Formerly, at Pentecost, a very great fete was held in
+of culture. Formerly, at Pentecost, a very great fête was held in
 the neighbouring forest, at which was collected all the nobles and
 knights, burgomasters and aldermen, of the district; the Lord of
 Elz gave a huge tun of wine, and the monasteries of St. Martin and
@@ -7069,7 +7031,7 @@ thus causing great icebergs to form in our river, which killed the
 vines and swept away orchards, houses, men, beasts, and boats, all
 in one chaos of general destruction. In 1709, thrice the ice became
 melted and then froze again, each time spreading disaster abroad;
-Coblence, Guels, Lay, and Moselweiss, all severely felt the effects.
+Coblence, Güls, Lay, and Moselweiss, all severely felt the effects.
 
 On the hills above Lay is the great drill-ground of Coblence; here
 the large body of forces collected in Ehrenbreitstein and Coblence
@@ -7081,7 +7043,7 @@ promontory of rock; the stone bridge of the Moselle and the boat-bridge
 of the Rhine are observed; and the strong fortress of Ehrenbreitstein
 is on the opposite side of the Rhine.
 
-Just opposite to Guels the Hunsruck mountains recede inland from the
+Just opposite to Güls the Hunsruck mountains recede inland from the
 Moselle, and our glad river flows now through a plain. Her course is
 nearly finished, her journey is almost accomplished; soon she will
 unite her pure spirit and her being with the lordly Rhine. But one
@@ -7119,7 +7081,7 @@ right bank of the Rhine; the other, on the left bank of the Moselle,
 was called Klein (little) Coblenz.
 
 After a time the town passed into the possession of the Electors of
-Treves, and they built a palace and fortified it.
+Trèves, and they built a palace and fortified it.
 
 The bridge over the Moselle is of Roman origin; but it has frequently
 been repaired and partially rebuilt, being subject to great pressure
@@ -7128,7 +7090,7 @@ are frequently inundated.
 
 Ehrenbreitstein is built on the site of an ancient Roman tower, which
 is described in old maps as "Turris adversus Germaniam Magnam." The
-Archbishops of Treves built a palace under the walls of this castle,
+Archbishops of Trèves built a palace under the walls of this castle,
 which was by that time much enlarged and strengthened. The palace
 still remains.
 
@@ -7148,7 +7110,7 @@ Government of those Provinces.
 Old Coblence was built along the right bank of the Moselle; and its
 formerly important suburb of Little Coblence formed with it one town,
 immediately connected by the bridge. This bridge was entirely rebuilt
-by the celebrated Elector Baldwin of Treves. It is recorded of him,
+by the celebrated Elector Baldwin of Trèves. It is recorded of him,
 that he, by his influence, procured the election of his brother Henry
 to the Imperial throne; and after his brother's death he placed the
 crown on the head of the Duke of Bavaria: his nephew also was raised
@@ -7263,13 +7225,13 @@ The Germans of the present time are quite as much given to amusement
 as their forefathers were; on every possible occasion they indulge
 in pic-nics, dances, fairs, processions, and festivals of all
 sorts. Christmas and New-year's Days are perhaps the greatest holidays
-in the year, but Carnival time is also universally kept as a fete,
+in the year, but Carnival time is also universally kept as a fête,
 the same as in Italy.
 
 In summer, excursions into the country are the most favourite
 amusements; people of all classes, high and low alike, indulge in
 these excursions. Some of the villages on the Moselle are particularly
-frequented by the people of Coblence. Guels, Moselweiss, and Lay are
+frequented by the people of Coblence. Güls, Moselweiss, and Lay are
 often crowded with pleasure-seekers of the poorer class, while the
 richer are met with at much greater distances; crowned with wreaths,
 and laughing and singing, these latter seem to pass very merry days
@@ -7304,7 +7266,7 @@ the society is said to be agreeable.
 Near the junction of the rivers is the church of Saint Castor;
 it stands in a large open space, and is a stately and interesting
 building: it contains a handsome monument to one of the Electors
-of Treves.
+of Trèves.
 
 The palace is a large house, not remarkable in any way; in it is a
 chapel where English service is performed, as there are a good many
@@ -7319,11 +7281,11 @@ recording the object of raising the monument, the Russian General
 who in his turn invaded the Rhine provinces, added--
 
 
-    "Vu et approuve par nous,
+    "Vu et approuvé par nous,
     Commandant Russe de la Ville de Coblence.
 
 
-    "Janvier 1ere, 1814."
+    "Janvier 1ère, 1814."
 
 
 The monument is a remarkably ugly lump of stone, which perhaps was
@@ -7511,7 +7473,7 @@ The poorer classes still bear the stamp of the old German
 character. They are frugal, hard-working, honest, and cheerful. They
 are well-mannered and well-informed for their class. They also exhibit
 considerable neatness and taste in their dress. No pleasanter object
-can be met in a summer-day's ramble than a group of the maedchen,
+can be met in a summer-day's ramble than a group of the mädchen,
 with their hair neatly folded, smooth on the brow and plaited behind,
 with the smart embroidered cloth or velvet head-dress, and the gilt
 paper-cutter passed through the hair; neat shoes and blue stockings are
@@ -7524,7 +7486,7 @@ As housewives, the Germans are doubtless unsurpassed by any other
 nation; the houses are clean, the stoves shine brightly, and they
 are for ever washing clothes in the river. We cannot applaud the
 way in which they cook their meat generally, but their puddings are
-admirable. At Cochem our landlady used to send us up souffled puddings
+admirable. At Cochem our landlady used to send us up souffléd puddings
 that would have done credit to the Palais Royal. On the Moselle
 the old-fashioned spinning-wheel is to be seen in every village,
 and knitting is always taken in hand when walking or superintending
@@ -7532,7 +7494,7 @@ household affairs.
 
 Singing is constantly heard in the evening, and many of the little
 coteries in the townlets by our river's side subscribe to hire a piano
-from Coblence or Treves, and by the aid of its music they make lively
+from Coblence or Trèves, and by the aid of its music they make lively
 the long hours of darkness in winter.
 
 The priests seem respected, and on amicable terms with all classes,
@@ -7620,9 +7582,9 @@ NOTES
 [1] German name for the Moselle.
 
 [2] The foundation of this legend is, that portions of canals have
-been found between Treves and Cologne, but it is supposed they were
+been found between Trèves and Cologne, but it is supposed they were
 separate canals, not portions of one large one; therefore, perhaps,
-the duck did not swim all the way from Treves.
+the duck did not swim all the way from Trèves.
 
 [3] Cathedral.
 
@@ -7630,7 +7592,7 @@ the duck did not swim all the way from Treves.
 
 [5] Stock (stick), Stein (stone), Gras (grass), Grun (green).
 
-[6] As the author was informed at Treves.
+[6] As the author was informed at Trèves.
 
 [7] Query, Was this the origin of taking French leave?
 
@@ -7647,361 +7609,4 @@ which is well known in these parts.
 
 End of Project Gutenberg's The Life of the Moselle, by Octavius Rooke
 
-*** END OF THIS PROJECT GUTENBERG EBOOK THE LIFE OF THE MOSELLE ***
-
-***** This file should be named 44913.txt or 44913.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/4/4/9/1/44913/
-
-Produced by Jeroen Hellingman and the Online Distributed
-Proofreading Team at http://www.pgdp.net/ for Project
-Gutenberg (This file was produced from images generously
-made available by The Internet Archive/Canadian Libraries)
-
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License available with this file or online at
-  www.gutenberg.org/license.
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation information page at www.gutenberg.org
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at 809
-North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
-contact links and up to date contact information can be found at the
-Foundation's web site and official page at www.gutenberg.org/contact
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit:  www.gutenberg.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart was the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For forty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-Most people start at our Web site which has the main PG search facility:
-
-     www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
+*** END OF THE PROJECT GUTENBERG EBOOK 44913 ***
